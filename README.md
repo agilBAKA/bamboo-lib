@@ -1,0 +1,2 @@
+# bamboo-lib
+Components base
